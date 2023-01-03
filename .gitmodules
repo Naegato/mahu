@@ -1,0 +1,6 @@
+[submodule "mahu-front"]
+	path = mahu-front
+	url = https://github.com/Naegato/mahu-front
+[submodule "mahu-strapi"]
+	path = mahu-strapi
+	url = https://github.com/Naegato/mahu-strapi
